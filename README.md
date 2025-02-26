@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Sou um desenvolvedor Backend, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.  Também me interesso por desenvolvimento de jogos, Realidade Virtual (VR) e Realidade Aumentada (AR).
+💻 Sou um desenvolvedor Backend, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
 
 🎓 Atualmente estudo <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> na ULA e <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a> na Udemy.
 
@@ -44,10 +44,9 @@
 ### GitHub Stats ⚡
 
 <div>
-  <a href="https://github.com/LeocaldioDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeocaldioDev&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeocaldioDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+<a href="https://github.com/LeocaldioDev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeocaldioDev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeocaldioDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
