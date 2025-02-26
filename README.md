@@ -8,7 +8,7 @@ compartilhar experiências e conhecimento.
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo  <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> | <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a>
+🎓 Eu estudo  <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> | <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a><br>
 👩‍💻 Atualmente eu trabalho como Freelancer.
 
 🔎 Também sou curioso sobre Desenvolvimento de Jogos,VR,AR
@@ -32,8 +32,8 @@ compartilhar experiências e conhecimento.
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Foundational C# with Microsoft - freeCodeCamp](https://www.freecodecamp.org/portuguese/certification/fcca86c98f7-f663-4cee-ae46-2535ebf5add11/foundational-c-sharp-with-microsoft)
-![Fundamentos do Gerenciamento de Projetos Predictive - Project Management Institute](https://www.credly.com/badges/68c78278-c9c4-4468-9559-72b772322e6f/linked_in_profile)
+<a href="https://www.freecodecamp.org/portuguese/certification/fcca86c98f7-f663-4cee-ae46-2535ebf5add11/foundational-c-sharp-with-microsoft" target="_blank" rel="noreferrer">Foundational C# with Microsoft - freeCodeCamp</a> | 
+<a href="https://www.credly.com/badges/68c78278-c9c4-4468-9559-72b772322e6f/linked_in_profile" target="_blank" rel="noreferrer">Fundamentos do Gerenciamento de Projetos Predictive - Project Management Institute</a>
 ...
 
 <!--
