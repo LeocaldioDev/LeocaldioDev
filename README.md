@@ -11,9 +11,9 @@ compartilhar experiências e conhecimento.
 🎓 Eu estudo  <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> | <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a><br><br>
 👩‍💻 Atualmente eu trabalho como Freelancer.
 
-🔎 Também sou curioso sobre Desenvolvimento de Jogos,VR,AR
+🔎 Também gosto de Desenvolver jogos,VR,AR
 
-✒️ Eu gosto de no meu tempo livre Estudar novas tecnologias e tendências do mercado;
+✒️ Eu gosto de no meu tempo livre Estudar novas tecnologias e tendências do mercado
 
 📚 Lendo: Guia da Startup - casa do código
 
