@@ -8,7 +8,7 @@ compartilhar experiências e conhecimento.
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo  <h2 href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</h2> | <h2 href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</h2>
+🎓 Eu estudo  <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> | <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a>
 👩‍💻 Atualmente eu trabalho como Freelancer.
 
 🔎 Também sou curioso sobre Desenvolvimento de Jogos,VR,AR
