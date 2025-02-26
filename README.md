@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Backend, .Net propriamente, apaixonado por tecnologia e
+💻 Eu sou um desenvolvedor Backend, .Net propriamente, apaixonado por tecnologia, 
 compartilhar experiências e conhecimento.
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
