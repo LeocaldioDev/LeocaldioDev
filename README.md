@@ -5,6 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=LeocaldioDev&color=brightgreen" alt="watching_count" />
  </p>
 
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF1ODFyeG9ueDF2OGJvdmNhOGFvMXBxbTB1ZjRuY2U4emhoeHUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+</div>
+
 ### Sobre mim
 
 💻 Sou um desenvolvedor Backend, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
