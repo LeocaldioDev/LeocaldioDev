@@ -12,15 +12,13 @@
 
 ### Sobre mim
 
-💻 Sou um desenvolvedor Backend, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
+💻 Sou um desenvolvedor de software, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
 
-🎓 Atualmente estudo <a href="https://ula.co.ao/curso/licenciatura-em-engenharia-de-informatica" target="_blank" rel="noreferrer">Engenharia Informática</a> na ULA e <a href="https://www.udemy.com/course/net-core-curso-orientado-para-mercado-de-trabalho/?couponCode=LETSLEARNNOW" target="_blank" rel="noreferrer">Desenvolvimento de Software com Foco em Back-End</a> na Udemy.
+🎓 Atualmente estou a fazer a Licenciatura/bacharelado na Universidade Lusiada de Angola (ULA) em Engenharia Informática.
 
 👩‍💻 Trabalho como Freelancer.
 
-🔎 No meu tempo livre, gosto de estudar novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de jogos, VR e AR.
-
-📚 Atualmente estou lendo: Guia da Startup - Casa do Código.
+🔎 No meu tempo livre, gosto de estudar novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de jogos, VR e AR na Engine Unity.
 
 ### Tecnologias e Ferramentas 🔧
 
@@ -43,11 +41,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-### Cursos realizados 🤓
-
-<a href="https://www.freecodecamp.org/portuguese/certification/fcca86c98f7-f663-4cee-ae46-2535ebf5add11/foundational-c-sharp-with-microsoft" target="_blank" rel="noreferrer">Foundational C# with Microsoft - freeCodeCamp</a> |
-<a href="https://www.credly.com/badges/68c78278-c9c4-4468-9559-72b772322e6f/linked_in_profile" target="_blank" rel="noreferrer">Fundamentos do Gerenciamento de Projetos Predictive - Project Management Institute</a> |
-...
 
 ### GitHub Stats ⚡
 
