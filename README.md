@@ -11,11 +11,13 @@
 </div>
 
 
+
 ### Sobre mim
 
 💻 Sou um desenvolvedor de software, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
 
 🔎 No meu tempo livre, gosto de estudar novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de jogos, VR e AR na Engine Unity.
+
 
 
 ### Tecnologias e Ferramentas 🔧
@@ -40,12 +42,14 @@
 </p>
 
 
+
 ### GitHub Stats ⚡
 
 <div>
 <a href="https://github.com/LeocaldioDev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeocaldioDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
 ### Entre em contato comigo! 📭
