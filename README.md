@@ -20,8 +20,6 @@
 🔎 No meu tempo livre, gosto de estudar novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de jogos, VR e AR na Engine Unity.
 
 
-
-
 ### Tecnologias e Ferramentas 🔧
 
 <p align="left">
