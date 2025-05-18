@@ -12,12 +12,12 @@
 
 
 
-
 ### Sobre mim
 
 💻 Sou um desenvolvedor de software, com foco em .NET, apaixonado por tecnologia, compartilhamento de experiências e conhecimento.
 
 🔎 No meu tempo livre, gosto de estudar novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de jogos, VR e AR na Engine Unity.
+
 
 
 ### Tecnologias e Ferramentas 🔧
