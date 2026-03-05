@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&pause=1000&color=04EDF5&center=true&vCenter=true&width=400&lines=Leocaldio+Carlos;Software+Developer+.NET" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&pause=1000&color=04EDF5&center=true&vCenter=true&width=420&lines=Leocaldio+Carlos;Software+Developer+.NET" />
 </p>
 
 <p align="left">
@@ -10,31 +10,10 @@
 
 ## About
 
-Software developer focused on **.NET ecosystem** and backend development.
+Software developer focused on backend development within the .NET ecosystem.
 
-I work mainly with **C#, APIs and relational databases**, and I enjoy exploring new technologies and building practical projects.  
-I also have interest in **game development using Unity**, including VR and AR experiments.
-
----
-
-## Technologies
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-
-</p>
+I build APIs and backend systems using C#, with experience working with relational databases and modern development practices.
+I’m also interested in game development with Unity and experimenting with VR/AR technologies.
 
 ---
 
